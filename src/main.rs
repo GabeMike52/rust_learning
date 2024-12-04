@@ -27,7 +27,7 @@ fn main() {
     let uinteger_64: u64 = 64;      //64-bit unsigned integer
     let uinteger_128: u128 = 128;   //128-bit unsigned integer
     let arch_uinteger: usize = 42;  //64-bit or 32-bit unsigned integer (depends on your cpu's architecture) 
-    //Floating-point types (all of them are signedf)
+    //Floating-point types (all of them are signed)
     let floating_32: f32 = 2.6;    //32-bit floating-point
     let floating_64: f64 = 4.91;   //64-bit floating-point
     //Boolean types -> 1 byte or 8 bits
